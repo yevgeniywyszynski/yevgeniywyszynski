@@ -1,12 +1,13 @@
 Hi 👋, I'm Yevgeniy Wyszyński
+
 A passionate Web Development
 👷‍♂️ I currently working in PerfectGym gym management software as a Junior Fornt-end Developer
 
-:gear: Roadmap:
+:gear:
 
-| HTML | CSS | JavaScript | Node.js| Express | MongoDB | React👈 | TypeScript | Next.js | Three.js
+| HTML | CSS | JavaScript | Node.js| Express | MongoDB | React | TypeScript |
 
-📧 How to reach me: jan.solarski@gmail.com
+📧 How to reach me: ywyszynski@gmail.com
 
 My values
 👐 Teamwork makes everyone stronger
@@ -16,8 +17,12 @@ My values
 ♥️ I'm eager to learn something new
 
 About me
-I describe myself as a passionate developer who always been fascinated by new technologies, web, and JavaScript ❤️.
+I'm a Polish front‑end developer focused on crafting clean & user‑friendly experiences,
 
-Aside from coding, I have been involved in music production, sound engineering, audio for games, and 3D sound.
+I am passionate about building excellent software that improves the lives of those around me.
 
-In my free time you can find me in the studio 🎹, or on tech meetups and conferences in London 💻
+I want to create new technologies that will stay for years.
+
+I am recording my podcast on Spotify Swiezak.Js :studio_microphone:
+
+Author IT ⚙️ news in Medium.com
