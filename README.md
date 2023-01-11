@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yevgeniy Wyszyńksi</h1>
 <h3 align="center">I am a Polish front-end developer focused on creating cool and user-friendly applications. I'm passionate about creating great software that improves the lives of people around me. I want to create new technologies that will stay for years.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 :briefcase: I’m currently working in 
 
