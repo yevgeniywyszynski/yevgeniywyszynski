@@ -9,7 +9,7 @@
 
 :mag_right: Know about my experiences [ywyszynski.com](ywyszynski.com)
 
-:studio_microphone: I'm recording a podcast **on [spotify.com](spotify.com) Świezak.Js**
+:studio_microphone: I'm recording a podcast **on [https://open.spotify.com/](spotify.com) Świezak.Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
