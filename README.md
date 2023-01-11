@@ -9,7 +9,7 @@
 
 :mag_right: Know about my experiences [ywyszynski.com](ywyszynski.com)
 
-:studio_microphone: I'm recording a podcast on **Spotify Świezak.Js (https://open.spotify.com/show/1h5pj37JwFBezO5e4ndslX)**
+:studio_microphone: I'm recording a podcast on **Spotify [Świezak.Js] (https://open.spotify.com/show/1h5pj37JwFBezO5e4ndslX)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
