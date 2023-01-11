@@ -1,8 +1,7 @@
-Hi 👋, I'm Yevgeniy Wyszyński
+<h1 style="font-size: 50px; text-align: center">Hi 👋, I'm Yevgeniy Wyszyński</h2>
 
-<h1 style="font-size: 50px">Hello</h2>
+<p style="font-size: 30px; text-align: center">A passionate Web Development</p>
 
-A passionate Web Development
 👷‍♂️ I currently working in PerfectGym gym management software as a Junior Fornt-end Developer
 
 :gear: Technologies:
@@ -11,14 +10,16 @@ A passionate Web Development
 
 📧 How to reach me: ywyszynski@gmail.com
 
-My values
+<p style="font-size: 50px; text-align: center">My values</p>
+
 👐 Teamwork makes everyone stronger
 
 🔑 Good communication is essential
 
 ♥️ I'm eager to learn something new
 
-About me
+<p style="font-size: 50px; text-align: center">About me</p>
+
 I am a Polish front-end developer focused on creating cool and user-friendly web applications,
 
 I'm passionate about creating great software that improves the lives of people around me.
