@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yevgeniy Wyszyńksi</h1>
 <h3 align="center">A passionate Frontend Developer from Poland</h3>
 
-- :briefcase:I’m currently working in **PerfectGym gym management software as a Junior Fornt-end Developer**
+:briefcase:I’m currently working in **PerfectGym gym management software as a Junior Fornt-end Developer**
 
-- 📝 I regularly write articles on [Medium](Medium)
+📝 I regularly write articles on [Medium](Medium)
 
-- :mag_right: Know about my experiences [ywyszynski.com](ywyszynski.com)
+:mag_right: Know about my experiences [ywyszynski.com](ywyszynski.com)
 
-- :studio_microphone: I'm recording a podcast **on Spotify Świezak.Js**
+:studio_microphone: I'm recording a podcast **on Spotify Świezak.Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
