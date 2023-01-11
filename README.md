@@ -18,7 +18,7 @@
 
 ♥️ I'm eager to learn something new
 
-<p style="font-size: 50px; text-align: center; 40px; font-weight: bold;">About me</p>
+<h4 style="font-size: 50px; text-align: center; 40px; font-weight: bold;">About me</h4>
 
 I am a Polish front-end developer focused on creating cool and user-friendly web applications,
 
