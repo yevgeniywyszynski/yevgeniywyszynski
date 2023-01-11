@@ -5,7 +5,7 @@
 
 **PerfectGym gym management software as a Junior Fornt-end Developer**
 
-📝 I regularly write articles on [Medium](Medium)
+📝 I regularly write articles on <a href="https://medium.com/me/stories/drafts">Medium</a>
 
 :mag_right: Know about my experiences [ywyszynski.com](ywyszynski.com)
 
