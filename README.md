@@ -1,15 +1,23 @@
-### Hi there 👋
+Hi 👋, I'm Yevgeniy Wyszyński
+A passionate Web Development
+👷‍♂️ I currently working in PerfectGym gym management software as a Junior Fornt-end Developer
 
+:gear: Roadmap:
 
-**yevgeniywyszynski/yevgeniywyszynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| HTML | CSS | JavaScript | Node.js| Express | MongoDB | React👈 | TypeScript | Next.js | Three.js
 
-Here are some ideas to get you started:
+📧 How to reach me: jan.solarski@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My values
+👐 Teamwork makes everyone stronger
+
+🔑 Good communication is essential
+
+♥️ I'm eager to learn something new
+
+About me
+I describe myself as a passionate developer who always been fascinated by new technologies, web, and JavaScript ❤️.
+
+Aside from coding, I have been involved in music production, sound engineering, audio for games, and 3D sound.
+
+In my free time you can find me in the studio 🎹, or on tech meetups and conferences in London 💻
