@@ -1,6 +1,6 @@
-<h1 style="font-size: 50px; text-align: center">Hi 👋, I'm Yevgeniy Wyszyński</h2>
+<h1 style="font-size: 50px; text-align: center;">Hi 👋, I'm Yevgeniy Wyszyński</h2>
 
-<p style="font-size: 30px; text-align: center">A passionate Web Development</p>
+<h4 style="font-size: 30px; text-align: center;">A passionate Web Development</h4>
 
 👷‍♂️ I currently working in PerfectGym gym management software as a Junior Fornt-end Developer
 
@@ -10,7 +10,7 @@
 
 📧 How to reach me: ywyszynski@gmail.com
 
-<p style="font-size: 50px; text-align: center">My values</p>
+<h4 style="font-size: 50px; text-align: center">My values</h4>
 
 👐 Teamwork makes everyone stronger
 
