@@ -20,3 +20,4 @@
 
 <a href="https://github.com/yevgeniywyszynski/fashion-web"><img width="300" src="https://ywyszynski.com/img/projects/project-6.png"></a>
 <a href="https://github.com/yevgeniywyszynski/tinderapp"><img width="300" src="https://github.com/yevgeniywyszynski/tinderapp/raw/main/public/images/appScreen/appscreen2.jpg"></a>
+<a href="https://github.com/yevgeniywyszynski/spotifycaraoke"><img width="300" src="https://github.com/yevgeniywyszynski/spotifycaraoke/raw/master/public/img/spotifyplayer.png"></a>
