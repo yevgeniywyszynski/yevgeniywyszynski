@@ -2,7 +2,7 @@
 <h3 align="center">I am a Polish front-end developer focused on creating cool and user-friendly applications. I'm passionate about creating great software that improves the lives of people around me. I want to create new technologies that will stay for years.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-:briefcase: **PerfectGym gym management software as a Junior Fornt-end Developer**
+:briefcase: **PerfectGym gym management software as a Fornt-end Developer**
 
 📝 I regularly write articles on <a href="https://medium.com/me/stories/public">Medium</a>
 
