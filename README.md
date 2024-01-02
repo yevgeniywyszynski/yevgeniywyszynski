@@ -6,8 +6,6 @@
 
 📝 I regularly write articles on <a href="https://medium.com/me/stories/public">Medium</a>
 
-:mag_right: Know about my experiences <a href="https://ywyszynski.com">ywyszynski</a>
-
 :studio_microphone: I'm recording a podcast on **Spotify <a href="https://open.spotify.com/show/1h5pj37JwFBezO5e4ndslX">Świezak.Js</a>**
 
 <h3 align="left">Connect with me:</h3>
